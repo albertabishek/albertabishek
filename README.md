@@ -1,16 +1,16 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=C084FC&center=true&vCenter=true&random=false&width=600&lines=Albert+Abishek+I;AI+Automation+Developer;Agentic+AI+%C2%B7+RAG+%C2%B7+Full-Stack;I+build+things+that+actually+ship." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0D9488&center=true&vCenter=true&random=false&width=650&lines=Albert+Abishek+I;AI+Automation+Developer+%40+Funnel+Truffle;Agentic+AI+%C2%B7+RAG+%C2%B7+Full-Stack;I+build+things+that+actually+ship." alt="Typing SVG" />
 </h1>
 
 <p align="center">
   I build autonomous AI systems that work in production — not demos, not tutorials.<br/>
-  Currently at <a href="https://www.funneltruffle.com/"><b>Funnel Truffle</b></a>, shipping marketing automation and AI workflows for enterprise clients.
+  Currently shipping marketing automation and AI workflows for enterprise clients at <a href="https://www.funneltruffle.com/"><b>Funnel Truffle</b></a>.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/albert-abishek-i/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://v0-albert-abishek-landing-page.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://albertabishek.com/"><img src="https://img.shields.io/badge/Website-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/albert-abishek-i/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://v0-albert-abishek-landing-page.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;
+  <a href="https://albertabishek.com/"><img src="https://img.shields.io/badge/Website-0D9488?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>&nbsp;
   <a href="mailto:abishekialbert@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -18,17 +18,21 @@
 
 ### 💼 Experience
 
-**AI Automation Developer** · [Funnel Truffle](https://www.funneltruffle.com/) · Mumbai, Remote · *Jun 2026 – Present*
-> Building marketing automation workflows (n8n, Make, Zapier), integrating LLM APIs for classification and content generation. Enterprise clients across real estate, banking, finance, and dermatology.
+> **AI Automation Developer** at [**Funnel Truffle**](https://www.funneltruffle.com/) · Mumbai, Remote · Jun 2026 – Present
+>
+> Building marketing automation workflows (n8n, Make, Zapier), integrating LLM APIs for classification, content generation, and lead scoring. Enterprise clients across real estate, banking, finance, and dermatology.
 
-**AI Automation** · CSTE Group · Delhi, Remote · *Nov 2025 – May 2026*
-> Automation workflows, third-party API integrations (YouTube, Shopify, CRM), internal dashboards using React, Flask, Node.js, and Supabase.
+> **AI Automation** at [**CSTE Group**](https://cste.carrd.co/) · Delhi, Remote · Nov 2025 – May 2026
+>
+> Developed automation workflows, integrated third-party APIs (YouTube, Google Sheets, Shopify, CRM platforms), built internal dashboards and tools using React, Streamlit, Flask, Node.js, and Supabase.
 
-**Web Development & SEO** · AdventX · England, UK, Remote · *Aug 2025 – Nov 2025*
-> Mobile-responsive redesign with React.js + TypeScript. Prisma ORM, Stripe integration. Internal SaaS product.
+> **Web Development & SEO** at [**AdventX**](https://www.adventx.ai/) · England, UK, Remote · Aug 2025 – Nov 2025
+>
+> Redesigned website pages for mobile responsiveness using React.js and TypeScript. Integrated Prisma ORM and Stripe for secure transactions. Contributed to internal SaaS product, deployed on Vercel.
 
-**Automation Engineer** · CodeSA Technologies · Adelaide, AU, Remote · *Jun 2025 – Aug 2025*
-> n8n, Zapier, Make workflows. API integrations connecting Google Workspace, Notion, Slack, CRM, and Airtable.
+> **Automation Engineer** at [**CodeSA Technologies**](https://www.codesatechnologies.com.au/) · Adelaide, AU, Remote · Jun 2025 – Aug 2025
+>
+> Designed automation workflows in n8n, Zapier, and Make. Integrated APIs connecting Google Workspace, Notion, Slack, CRM systems, and Airtable.
 
 ---
 
@@ -57,7 +61,6 @@
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-6366F1?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge&logo=brain&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Make](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
@@ -86,6 +89,7 @@
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Google APIs](https://img.shields.io/badge/Google%20APIs-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 **Tools**
 
@@ -117,7 +121,14 @@ Autonomous revenue recovery engine for Razorpay merchants. Classifies failed pay
 <summary><b>Aletheia</b> — Multi-Tenant RAG AI Platform &nbsp;|&nbsp; 🏆 <i>2nd Place, Innovators Arena 2026</i></summary>
 <br/>
 
-Multi-tenant RAG platform with a full voice query pipeline: Speech-to-Text → semantic vector retrieval → Text-to-Speech. Architected on FastAPI + Qdrant + PostgreSQL + OpenAI API. JWT authentication with RBAC for multi-tenant data isolation. Knowledge ingestion via PDF parsing, chunking, and live web crawling. Load tested with 60+ concurrent users. Beat 50+ teams.
+Multi-tenant RAG platform with a full voice query pipeline: Speech-to-Text → semantic vector retrieval → Text-to-Speech.
+
+- Architected on FastAPI + Qdrant + PostgreSQL + OpenAI API for document retrieval
+- JWT authentication with RBAC for multi-tenant data isolation
+- Knowledge ingestion pipeline: PDF parsing, chunking, live web crawling
+- Integrated full voice pipeline for hands-free interaction
+- Load tested with 60+ concurrent users in a hackathon
+- 2nd place, Innovators Arena 2026 (TPGIT), against 50+ teams
 
 `FastAPI` `Qdrant` `PostgreSQL` `OpenAI API` `JWT/RBAC` `STT/TTS`
 
@@ -129,7 +140,12 @@ Contributors: [Femina](https://github.com/Femina-2720)
 <summary><b>LaunchQuest</b> — AI Interactive Event Platform</summary>
 <br/>
 
-Real-time event platform where GPT-4o generates quiz content instantly, supporting 50+ languages. Real-time system handling 100+ concurrent participants via Socket.IO. Google OAuth 2.0 and subscription-based access control. Deployed on Railway.
+Real-time event platform where GPT-4o generates quiz content instantly, with Flask + Socket.IO handling multiplayer.
+
+- AI content-generation engine supporting 50+ languages, cutting quiz creation time
+- Real-time system supporting 100+ concurrent participants
+- Google OAuth 2.0 and subscription-based access control
+- Deployed on Railway
 
 `Python` `Flask` `OpenAI API` `PostgreSQL` `Socket.IO` `Google OAuth`
 
@@ -139,7 +155,12 @@ Real-time event platform where GPT-4o generates quiz content instantly, supporti
 <summary><b>SignalStream</b> — AI B2B Lead-Signal Monitoring</summary>
 <br/>
 
-Monitors Reddit, YouTube, and Product Hunt for high-intent B2B conversation signals using NLP. Customer fingerprint system to filter irrelevant matches. Sentiment analysis layer to rank leads by purchase intent. n8n as core engine with Supabase for data.
+Monitors Reddit, YouTube, Product Hunt for high-intent B2B conversation signals, using NLP to filter noise and surface leads worth following up on.
+
+- n8n pipeline for continuous monitoring of public community signals
+- NLP-based "customer fingerprint" approach to filter irrelevant matches
+- Sentiment analysis layer to rank leads by likely purchase intent
+- n8n as core engine with Supabase for data
 
 `Python` `Flask` `Celery` `Supabase` `n8n` `Reddit API` `YouTube API`
 
