@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  I build autonomous AI systems that work in production — not demos, not tutorials.<br/>
-  Currently shipping marketing automation and AI workflows for enterprise clients at <a href="https://www.funneltruffle.com/"><b>Funnel Truffle</b></a>.
+  I build things that actually ship. Not demos, not tutorials.<br/>
+  Currently building marketing automation and AI workflows for enterprise clients at <a href="https://www.funneltruffle.com/"><b>Funnel Truffle</b></a>.
 </p>
 
 <p align="center">
@@ -20,21 +20,21 @@
 
 ### 💼 Experience
 
-> **AI Automation Developer** at [**Funnel Truffle**](https://www.funneltruffle.com/) · Mumbai, Remote · Jun 2026 – Present
+> **AI Automation Developer** at [**Funnel Truffle**](https://www.funneltruffle.com/) · Mumbai, Remote · Jun 2026 - Present
 >
-> Building marketing automation workflows (n8n, Make, Zapier), integrating LLM APIs for classification, content generation, and lead scoring. Enterprise clients across real estate, banking, finance, and dermatology.
+> Building marketing automation workflows using n8n, Make, and Zapier. Integrating LLM APIs for classification, content generation, and lead scoring. Working with enterprise clients across real estate, banking, finance, and dermatology.
 
-> **AI Automation** at [**CSTE Group**](https://cste.carrd.co/) · Delhi, Remote · Nov 2025 – May 2026
+> **AI Automation** at [**CSTE Group**](https://cste.carrd.co/) · Delhi, Remote · Nov 2025 - May 2026
 >
-> Developed automation workflows, integrated third-party APIs (YouTube, Google Sheets, Shopify, CRM platforms), built internal dashboards and tools using React, Streamlit, Flask, Node.js, and Supabase.
+> Built automation workflows and integrated third-party APIs like YouTube, Google Sheets, Shopify, and CRM platforms. Built internal dashboards using React, Streamlit, Flask, Node.js, and Supabase.
 
-> **Web Development & SEO** at [**AdventX**](https://www.adventx.ai/) · England, UK, Remote · Aug 2025 – Nov 2025
+> **Web Development & SEO** at [**AdventX**](https://www.adventx.ai/) · England, UK, Remote · Aug 2025 - Nov 2025
 >
-> Redesigned website pages for mobile responsiveness using React.js and TypeScript. Integrated Prisma ORM and Stripe for secure transactions. Contributed to internal SaaS product, deployed on Vercel.
+> Redesigned website pages for mobile responsiveness with React.js and TypeScript. Integrated Prisma ORM and Stripe. Worked on an internal SaaS product, deployed on Vercel.
 
-> **Automation Engineer** at [**CodeSA Technologies**](https://www.codesatechnologies.com.au/) · Adelaide, AU, Remote · Jun 2025 – Aug 2025
+> **Automation Engineer** at [**CodeSA Technologies**](https://www.codesatechnologies.com.au/) · Adelaide, AU, Remote · Jun 2025 - Aug 2025
 >
-> Designed automation workflows in n8n, Zapier, and Make. Integrated APIs connecting Google Workspace, Notion, Slack, CRM systems, and Airtable.
+> Built automation workflows in n8n, Zapier, and Make. Integrated APIs connecting Google Workspace, Notion, Slack, CRM systems, and Airtable.
 
 ---
 
@@ -108,10 +108,10 @@
 ### 🚀 Projects
 
 <details>
-<summary><b>Recovery Router</b> — AI Payment Recovery Engine &nbsp;|&nbsp; <i>Razorpay AI Buildathon 2026</i></summary>
+<summary><b>Recovery Router</b> - AI Payment Recovery Engine | <i>Razorpay AI Buildathon 2026</i></summary>
 <br/>
 
-Autonomous revenue recovery engine for Razorpay merchants. Classifies failed payments, abandoned carts & overdue invoices using a 3-model AI fallback chain (OpenRouter), routes to optimal recovery action, sends personalized messages via WhatsApp, Email, SMS. Built with 18 safety mechanisms and honest metrics.
+Built a revenue recovery engine for Razorpay merchants. It picks up failed payments, abandoned carts, and overdue invoices, classifies them using a 3-model AI fallback chain through OpenRouter, figures out the best recovery action, and sends personalized messages through WhatsApp, Email, and SMS. If AI goes down, deterministic rules take over. 18 safety mechanisms, honest metrics.
 
 `FastAPI` `Celery` `Redis` `Supabase` `React` `Razorpay API` `OpenRouter`
 
@@ -120,33 +120,33 @@ Autonomous revenue recovery engine for Razorpay merchants. Classifies failed pay
 </details>
 
 <details>
-<summary><b>Aletheia</b> — Multi-Tenant RAG AI Platform &nbsp;|&nbsp; 🏆 <i>2nd Place, Innovators Arena 2026</i></summary>
+<summary><b>Aletheia</b> - Multi-Tenant RAG Platform | 🏆 <i>2nd Place, Innovators Arena 2026</i></summary>
 <br/>
 
-Multi-tenant RAG platform with a full voice query pipeline: Speech-to-Text → semantic vector retrieval → Text-to-Speech.
+Built a multi-tenant RAG platform with a full voice query pipeline. Speech-to-Text, semantic vector retrieval, then Text-to-Speech.
 
-- Architected on FastAPI + Qdrant + PostgreSQL + OpenAI API for document retrieval
-- JWT authentication with RBAC for multi-tenant data isolation
-- Knowledge ingestion pipeline: PDF parsing, chunking, live web crawling
-- Integrated full voice pipeline for hands-free interaction
-- Load tested with 60+ concurrent users in a hackathon
-- 2nd place, Innovators Arena 2026 (TPGIT), against 50+ teams
+- Built on FastAPI + Qdrant + PostgreSQL + OpenAI API
+- JWT auth with RBAC so each tenant's data stays isolated
+- Knowledge ingestion through PDF parsing, chunking, and live web crawling
+- Full voice pipeline for hands-free interaction
+- Load tested with 60+ concurrent users
+- Won 2nd place against 50+ teams at Innovators Arena 2026
 
 `FastAPI` `Qdrant` `PostgreSQL` `OpenAI API` `JWT/RBAC` `STT/TTS`
 
-Contributors: [Femina](https://github.com/Femina-2720)
+Built with [Femina](https://github.com/Femina-2720)
 
 </details>
 
 <details>
-<summary><b>LaunchQuest</b> — AI Interactive Event Platform</summary>
+<summary><b>LaunchQuest</b> - AI Interactive Event Platform</summary>
 <br/>
 
-Real-time event platform where GPT-4o generates quiz content instantly, with Flask + Socket.IO handling multiplayer.
+Built a real-time event platform where GPT-4o generates quiz content on the fly. Flask + Socket.IO handles the multiplayer side.
 
-- AI content-generation engine supporting 50+ languages, cutting quiz creation time
-- Real-time system supporting 100+ concurrent participants
-- Google OAuth 2.0 and subscription-based access control
+- AI generates quizzes in 50+ languages
+- Real-time system handles 100+ concurrent participants
+- Google OAuth 2.0 and subscription-based access
 - Deployed on Railway
 
 `Python` `Flask` `OpenAI API` `PostgreSQL` `Socket.IO` `Google OAuth`
@@ -154,15 +154,15 @@ Real-time event platform where GPT-4o generates quiz content instantly, with Fla
 </details>
 
 <details>
-<summary><b>SignalStream</b> — AI B2B Lead-Signal Monitoring</summary>
+<summary><b>SignalStream</b> - AI B2B Lead Monitoring</summary>
 <br/>
 
-Monitors Reddit, YouTube, Product Hunt for high-intent B2B conversation signals, using NLP to filter noise and surface leads worth following up on.
+Built a platform that monitors Reddit, YouTube, and Product Hunt for high-intent B2B leads. NLP filters the noise and surfaces leads worth following up on.
 
-- n8n pipeline for continuous monitoring of public community signals
-- NLP-based "customer fingerprint" approach to filter irrelevant matches
-- Sentiment analysis layer to rank leads by likely purchase intent
-- n8n as core engine with Supabase for data
+- n8n pipeline for continuous monitoring
+- Customer fingerprint system to filter irrelevant matches
+- Sentiment analysis to rank leads by purchase intent
+- n8n as core engine, Supabase for data
 
 `Python` `Flask` `Celery` `Supabase` `n8n` `Reddit API` `YouTube API`
 
@@ -183,5 +183,5 @@ Monitors Reddit, YouTube, Product Hunt for high-intent B2B conversation signals,
 ---
 
 <p align="center">
-  <i>4 companies · 4 countries · all remote · all while in college.</i>
+  <i>4 companies. 4 countries. All remote. All while in college.</i>
 </p>
