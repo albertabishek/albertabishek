@@ -1,6 +1,8 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0D9488&center=true&vCenter=true&random=false&width=650&lines=Albert+Abishek+I;AI+Automation+Developer+%40+Funnel+Truffle;Agentic+AI+%C2%B7+RAG+%C2%B7+Full-Stack;I+build+things+that+actually+ship." alt="Typing SVG" />
-</h1>
+<h1 align="center">Albert Abishek I</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0D9488&center=true&vCenter=true&random=false&width=600&lines=AI+Automation+Developer+%40+Funnel+Truffle;Agentic+AI+%C2%B7+RAG+%C2%B7+Full-Stack+Engineer;2nd+Place%2C+Innovators+Arena+2026;I+build+things+that+actually+ship." alt="Typing SVG" /></a>
+</p>
 
 <p align="center">
   I build autonomous AI systems that work in production — not demos, not tutorials.<br/>
@@ -174,7 +176,7 @@ Monitors Reddit, YouTube, Product Hunt for high-intent B2B conversation signals,
 
 <img src="https://github-readme-stats.vercel.app/api?username=albertabishek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=albertabishek&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=albertabishek&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
