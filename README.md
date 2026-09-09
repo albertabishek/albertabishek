@@ -174,7 +174,7 @@ Built a platform that monitors Reddit, YouTube, and Product Hunt for high-intent
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=albertabishek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=albertabishek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
 &nbsp;&nbsp;
 <img src="https://streak-stats.demolab.com/?user=albertabishek&theme=tokyonight&hide_border=true" height="170"/>
 
